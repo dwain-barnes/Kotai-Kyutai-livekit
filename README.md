@@ -35,18 +35,7 @@ Before running Kotai, you’ll need:
 
 ## 🚀 Installation
 
-Clone this repository:
-
-```bash
-
-cd kotai-voice-assistant
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+See youtube video
 
 Create a `.env.local` file with your configuration:
 
