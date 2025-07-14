@@ -29,7 +29,9 @@ Before running Kotai, you’ll need:
 
 - Python 3.12
 - Kyutai TTS server running on `http://localhost:8000/v1`
+- Repo: https://github.com/dwain-barnes/kyutai-tts-openai-api
 - Kyutai STT server running on `http://localhost:8080/v1`
+- Repo: https://github.com/dwain-barnes/kyutai-stt-openai-api  
 - Ollama installed with the Gemma3n model
 - LiveKit server access
 
