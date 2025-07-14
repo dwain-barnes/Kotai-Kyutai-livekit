@@ -91,7 +91,7 @@ You can modify the `agent.py` file to:
 
 ## 📝 Code Explanation
 
-The main workflow in `agent.py`:
+The main workflow in `agent.py` dev:
 
 ```python
 # 1) Speech-to-Text with Kyutai STT
