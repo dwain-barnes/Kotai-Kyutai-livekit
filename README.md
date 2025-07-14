@@ -152,8 +152,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [LiveKit]for the real-time communication platform
 - [Ollama]
 
-
-## 📧 Support
-
-If you encounter any issues or have questions, please open an issue on GitHub. Sent from my iPhone
-Sent from my iPhone
