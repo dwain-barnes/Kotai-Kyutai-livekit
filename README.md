@@ -1,5 +1,6 @@
 # Kotai - Local Voice Assistant with Kyutai TTS/STT and LiveKit
 
+[![Watch the Demo](https://img.youtube.com/vi/PHFrchtDIoE/0.jpg)](https://youtu.be/PHFrchtDIoE)
 ## 🔊 Overview
 
 Kotai is a fully local, zero-cost voice assistant that combines the power of Kyutai TTS/STT, LiveKit, and local LLMs to create natural conversational experiences. This project eliminates the need for cloud-based API services by integrating:
